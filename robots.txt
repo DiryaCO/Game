@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://diryaco.github.io/game/sitemap.xml
